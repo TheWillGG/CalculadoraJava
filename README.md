@@ -1,6 +1,6 @@
 package com.mycompany.calculadoraprocesos;
 
-import java.util.Scanner;
+import java.util.Scanner;.
 
 public class CalculadoraProcesos {
 
